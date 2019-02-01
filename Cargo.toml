@@ -1,0 +1,9 @@
+[package]
+name = "natural_numbers"
+version = "0.1.0"
+authors = ["Kevin Tran <kevintran@airmail.cc>"]
+edition = "2018"
+description = "Provides natural numbers and operations on them, based on the successor operation."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
